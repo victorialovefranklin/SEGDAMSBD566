@@ -344,14 +344,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-
-**Victoria Love Franklin**
-
-- GitHub: [@vlfranklin](https://github.com/vlfranklin)
-- Email: vfranklin@mmc.edu
-
----
 
 <p align="center">
   <i>Supporting equitable climate investment through spatial data science.</i>

@@ -2,7 +2,7 @@
 
 ## Real Data Sources Used in Analysis
 
-This analysis uses **three real California datasets** to assess climate risk and environmental justice burden across 58 counties.
+This analysis uses **three California datasets** to assess climate risk and environmental justice burden across 58 counties.
 
 ---
 

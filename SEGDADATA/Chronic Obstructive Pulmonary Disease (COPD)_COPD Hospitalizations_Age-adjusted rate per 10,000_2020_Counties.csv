@@ -1,0 +1,60 @@
+Counties,"Age-adjusted rate per 10,000",Lower 95% Limit,Upper 95% Limit,Number of cases
+California,6.69,6.6,6.79,21232
+Alameda,5.14,4.76,5.54,709
+Alpine,N/A,N/A,N/A,N/A
+Amador,6.97,4.84,9.92,37
+Butte,21.02,18.89,23.35,376
+Calaveras,11.56,8.63,15.36,66
+Colusa,23.8,16.63,33.13,39
+Contra Costa,4.92,4.49,5.38,510
+Del Norte,5.42,2.79,9.6,13
+El Dorado,8.33,7.08,9.76,174
+Fresno,13.51,12.62,14.44,901
+Glenn,25.79,19.48,33.62,59
+Humboldt,8.11,6.56,9.94,102
+Imperial,4.3,3.19,5.67,53
+Inyo,8.82,5.11,14.6,18
+Kern,13.28,12.33,14.29,756
+Kings,12.45,10.25,14.99,117
+Lake,13.47,10.84,16.64,100
+Lassen,6.03,3.37,10.02,16
+Los Angeles,7.2,7.01,7.39,5740
+Madera,10.21,8.41,12.28,117
+Marin,1.62,1.18,2.2,50
+Mariposa,22.46,15.99,31.21,51
+Mendocino,7.23,5.55,9.32,69
+Merced,14.12,12.35,16.07,237
+Modoc,13.23,7.65,23.48,17
+Mono,N/A,N/A,N/A,N/A
+Monterey,6.6,5.73,7.56,216
+Napa,3.41,2.48,4.61,48
+Nevada,2.95,2.08,4.15,43
+Orange,3.86,3.63,4.11,1014
+Placer,4.62,3.97,5.36,182
+Plumas,10.38,6.73,15.94,29
+Riverside,7.2,6.81,7.61,1305
+Sacramento,8.23,7.72,8.76,1007
+San Benito,5.64,3.67,8.31,27
+San Bernardino,7.14,6.7,7.6,1046
+San Diego,6.07,5.77,6.38,1565
+San Francisco,7.09,6.52,7.71,576
+San Joaquin,8.43,7.66,9.26,458
+San Luis Obispo,5.07,4.23,6.05,139
+San Mateo,2.91,2.52,3.34,214
+Santa Barbara,5.15,4.43,5.97,187
+Santa Clara,3.22,2.94,3.51,512
+Santa Cruz,4.36,3.56,5.3,112
+Shasta,10.89,9.37,12.61,198
+Sierra,N/A,N/A,N/A,N/A
+Siskiyou,12.52,9.29,16.62,60
+Solano,4.91,4.22,5.68,189
+Sonoma,5.56,4.89,6.3,267
+Stanislaus,10.85,9.82,11.97,421
+Sutter,12.54,10.17,15.33,101
+Tehama,8.62,6.54,11.26,58
+Trinity,N/A,N/A,N/A,N/A
+Tulare,8.59,7.56,9.73,257
+Tuolumne,8.56,6.25,11.52,53
+Ventura,5.85,5.29,6.46,418
+Yolo,5.42,4.3,6.77,83
+Yuba,18.93,15.42,23.02,106
